@@ -1,0 +1,20 @@
+﻿# Dependências e módulos
+node_modules/
+
+# Navegadores / Binários locais
+chrome-win/
+diversos para ver/
+
+# Relatórios locais - não enviar ao GitHub
+/relatorios/afastamentos/
+/relatorios/cadastro/
+/relatorios/descricao_lotacoes/
+/relatorios/exclui_averbacoes/
+/relatorios/inclui_averbacoes/
+/relatorios/lotacoes/
+/relatorios/reversao_aposentadoria/
+/relatorios/servidor/
+
+# Outros
+.env
+*.log
